@@ -1,0 +1,9 @@
+\w
+[\w]
+[A-Za-z_\d]
+[A-Za-z\d_]
+[A-Za-z0-9_]
+[0-9A-Za-z_]
+[0-9A-Z_a-z]
+[\dA-Z_a-z]
+[\dA-Za-z_]
